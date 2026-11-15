@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.5.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/U8UjKC5iKt",
-  "notes": "静默时三通道真正归零（加 dB 噪声门和归一化门），不再残留 1 档底噪"
+  "versionCode": 17,
+  "versionName": "0.6.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/bDRegcSxtF",
+  "notes": "新增画面人物贴近度检测（肤色占比 + 居中权重），识别到人物特写时三通道额外加强，设置里可调比例"
 }
