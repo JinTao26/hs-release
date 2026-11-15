@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.6.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/bDRegcSxtF",
-  "notes": "新增画面人物贴近度检测（肤色占比 + 居中权重），识别到人物特写时三通道额外加强，设置里可调比例"
+  "versionCode": 18,
+  "versionName": "0.6.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/uM3LnOyhjQ",
+  "notes": "新增小悬浮窗（三通道实时值 + 肤色/人声读数，点开可拖权重）；新增人声激烈度加强"
 }
