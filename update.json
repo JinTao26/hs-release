@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/eHufjl4OoL",
-  "notes": "修好首次安装时自动连接被跳过的问题；未连接时主页直接给重新扫描入口"
+  "versionCode": 6,
+  "versionName": "0.2.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/5HafUf8wNd",
+  "notes": "修好调试页点设备名连上后报\"没有目标 characteristic\"的问题；补配对按钮、GATT 缓存重读、整页可滚动"
 }
