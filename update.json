@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.6.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/sBHGodcV0g",
-  "notes": "伸缩通道改用「电平 + 起音 Excel」融合并提高 1.5 倍灵敏；画面帧差标度也调大一档"
+  "versionCode": 20,
+  "versionName": "0.6.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/i1UGKCJUfn",
+  "notes": "修悬浮窗数值卡死（未连设备时也算并刷新）；悬浮窗改为默认自动显示"
 }
