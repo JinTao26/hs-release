@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/5HafUf8wNd",
-  "notes": "修好调试页点设备名连上后报\"没有目标 characteristic\"的问题；补配对按钮、GATT 缓存重读、整页可滚动"
+  "versionCode": 7,
+  "versionName": "0.3.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/HSCFHMYU4V",
+  "notes": "接入真实谜姬协议：连上自动发初始化包，强度走 0xF3 双路包，调试页可直接测 20/50/80% 和模式 1/3/5"
 }
