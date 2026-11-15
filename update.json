@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.6.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/uM3LnOyhjQ",
-  "notes": "新增小悬浮窗（三通道实时值 + 肤色/人声读数，点开可拖权重）；新增人声激烈度加强"
+  "versionCode": 19,
+  "versionName": "0.6.2",
+  "apkUrl": "https://aka.doubaocdn.com/s/sBHGodcV0g",
+  "notes": "伸缩通道改用「电平 + 起音 Excel」融合并提高 1.5 倍灵敏；画面帧差标度也调大一档"
 }
