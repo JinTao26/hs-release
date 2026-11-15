@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/i9779fslec",
-  "notes": "连上设备自动读电量（先 2a19 标准电池服务），诊断信息里带上 battery"
+  "versionCode": 22,
+  "versionName": "0.6.5",
+  "apkUrl": "https://aka.doubaocdn.com/s/pBSTL2wkXa",
+  "notes": "调试页精简：去掉配对/马达路数/原始字节/单通道模式，GATT 与模式号收进「高级」；电量直接显示"
 }
