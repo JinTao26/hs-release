@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/dtufd5CpPL",
-  "notes": "补上 0xF3 包的五个型号分支（通用/震动/加热/冲击/电击），调试页可一键逐个试；增加写成功/失败反馈"
+  "versionCode": 10,
+  "versionName": "0.3.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/gmGstpSA6q",
+  "notes": "调试页显示真实写入目标 UUID 与通知订阅状态，一键复制诊断信息"
 }
