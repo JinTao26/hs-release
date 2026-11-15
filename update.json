@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/gmGstpSA6q",
-  "notes": "调试页显示真实写入目标 UUID 与通知订阅状态，一键复制诊断信息"
+  "versionCode": 11,
+  "versionName": "0.4.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/cYKW2rlTjh",
+  "notes": "换成 ANKNI/谜姬真实协议（AA 帧带校验和，服务 dddd/ddd1）。调试页可测 1/2/3 马达路数与保活"
 }
