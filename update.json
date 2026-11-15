@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.6.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/i1UGKCJUfn",
-  "notes": "修悬浮窗数值卡死（未连设备时也算并刷新）；悬浮窗改为默认自动显示"
+  "versionCode": 21,
+  "versionName": "0.6.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/i9779fslec",
+  "notes": "连上设备自动读电量（先 2a19 标准电池服务），诊断信息里带上 battery"
 }
