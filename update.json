@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/cYKW2rlTjh",
-  "notes": "换成 ANKNI/谜姬真实协议（AA 帧带校验和，服务 dddd/ddd1）。调试页可测 1/2/3 马达路数与保活"
+  "versionCode": 12,
+  "versionName": "0.4.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/CYSnQDFwI5",
+  "notes": "下发节流到 200ms（跟设备节奏一致，消掉写失败）；调试页增加单通道测试"
 }
