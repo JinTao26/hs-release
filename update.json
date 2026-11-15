@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.4.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/CYSnQDFwI5",
-  "notes": "下发节流到 200ms（跟设备节奏一致，消掉写失败）；调试页增加单通道测试"
+  "versionCode": 14,
+  "versionName": "0.4.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/SHMDZaLPbr",
+  "notes": "三路配平增益；调试页补齐单通道/三通道模式测试，保活现在对强度和模式都生效"
 }
