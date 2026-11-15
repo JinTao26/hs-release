@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/XPfR8VyGDS",
-  "notes": "默认不再空跑：连上就真的下发。之前 dryRun 默认开着，所以只动条不动设备"
+  "versionCode": 9,
+  "versionName": "0.3.2",
+  "apkUrl": "https://aka.doubaocdn.com/s/dtufd5CpPL",
+  "notes": "补上 0xF3 包的五个型号分支（通用/震动/加热/冲击/电击），调试页可一键逐个试；增加写成功/失败反馈"
 }
