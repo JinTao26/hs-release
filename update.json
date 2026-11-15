@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.4.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/SHMDZaLPbr",
-  "notes": "三路配平增益；调试页补齐单通道/三通道模式测试，保活现在对强度和模式都生效"
+  "versionCode": 15,
+  "versionName": "0.5.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/2p2xyUWPjJ",
+  "notes": "新增 BPM 节拍锁（震动改为踩拍打点）和画面帧差能量（伸缩跟随画面动作）"
 }
