@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.5.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/2p2xyUWPjJ",
-  "notes": "新增 BPM 节拍锁（震动改为踩拍打点）和画面帧差能量（伸缩跟随画面动作）"
+  "versionCode": 16,
+  "versionName": "0.5.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/U8UjKC5iKt",
+  "notes": "静默时三通道真正归零（加 dB 噪声门和归一化门），不再残留 1 档底噪"
 }
