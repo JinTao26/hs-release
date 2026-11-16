@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.7.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/hTFhvlR0dN",
-  "notes": "压缩联动延迟：音频缓冲从 4096 降到 1024、分析步长 100ms 到 50ms、起音时可插队抢发（不等 200ms 网格）"
+  "versionCode": 24,
+  "versionName": "0.7.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/pgq0UmI7iM",
+  "notes": "女声/气声权重加大：判定阈值放宽、中段用 0.7 次幂抬高、默认加强量 30→55%，滑杆上限放到 120%"
 }
