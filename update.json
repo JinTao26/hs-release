@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.7.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/yAbM8wTHT9",
-  "notes": "新增激烈模式：扭动晚 0.4 秒入场、起音留 3 倍余震、持续高位每 4 秒自动焦空 0.8 秒重置适应"
+  "versionCode": 26,
+  "versionName": "0.7.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/Oq59dvPhhq",
+  "notes": "伸缩新增「画面动作加速度」：只取上升沿，动作越猛档位顶得越高，快速剪辑只瞬影响一下"
 }
