@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/pgq0UmI7iM",
-  "notes": "女声/气声权重加大：判定阈值放宽、中段用 0.7 次幂抬高、默认加强量 30→55%，滑杆上限放到 120%"
+  "versionCode": 25,
+  "versionName": "0.7.2",
+  "apkUrl": "https://aka.doubaocdn.com/s/yAbM8wTHT9",
+  "notes": "新增激烈模式：扭动晚 0.4 秒入场、起音留 3 倍余震、持续高位每 4 秒自动焦空 0.8 秒重置适应"
 }
