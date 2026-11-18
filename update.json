@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.10.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/GuiBk26SyN",
-  "notes": "三套主题可切（霓虹/樱/墨）；设置独立成页并精简；删掉多余的开始按钮；刺激模式整体抬高强度并加入周期性爆发段"
+  "versionCode": 31,
+  "versionName": "0.10.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/rvJMoTxBVG",
+  "notes": "修点设置崩溃：SettingsActivity 没在清单里注册，已补上并已验证打进 APK"
 }
