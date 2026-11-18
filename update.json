@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.10.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/rvJMoTxBVG",
-  "notes": "修点设置崩溃：SettingsActivity 没在清单里注册，已补上并已验证打进 APK"
+  "versionCode": 32,
+  "versionName": "0.10.2",
+  "apkUrl": "https://aka.doubaocdn.com/s/VmjfzED6tD",
+  "notes": "删除设备调试页（诊断能力改为设置里的「复制诊断信息」）；主页显示扫描到几台设备，便于判断扫不到还是连不上"
 }
