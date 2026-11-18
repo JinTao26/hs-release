@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.9.1",
-  "apkUrl": "https://aka.doubaocdn.com/s/lPUtQtRRw5",
-  "notes": "界面重做：插画叠加标题、状态胶囊、三段模式切换、通道条重画、版本与检查更新常驻显示"
+  "versionCode": 30,
+  "versionName": "0.10.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/GuiBk26SyN",
+  "notes": "三套主题可切（霓虹/樱/墨）；设置独立成页并精简；删掉多余的开始按钮；刺激模式整体抬高强度并加入周期性爆发段"
 }
