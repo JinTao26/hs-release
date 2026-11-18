@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/RV4qeZxgDV",
-  "notes": "量化曲线加 gamma 0.68（中段整体抬高，不再温吞）；激烈模式重写为爆发-随机停顿-三路轮替-微抖动"
+  "versionCode": 28,
+  "versionName": "0.9.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/wcEUdZknyQ",
+  "notes": "新增两个不依赖视频的模式：刺激模式（噪声趋势 + 不规律脉冲）与模拟真人（离散动作、参数全随机、会停顿会变速）"
 }
