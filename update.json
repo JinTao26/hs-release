@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.10.6",
-  "apkUrl": "https://aka.doubaocdn.com/s/jtmK9Y0Sdx",
-  "notes": "激烈模式提到首页；停顿间隔/时长/深度全部随机化，去掉机械感；自跑曲线修复脉冲衰减顺序，实测可达 9 档"
+  "versionCode": 37,
+  "versionName": "0.10.7",
+  "apkUrl": "https://aka.doubaocdn.com/s/VElbnWiGp9",
+  "notes": "修跟随模式三路一直满档：三路改用绝对刻度（dB/通透占比/慢电平），不再用各自历史峰值归一，安静就低、响才高"
 }
