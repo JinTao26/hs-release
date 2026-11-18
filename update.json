@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.10.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/VmjfzED6tD",
-  "notes": "删除设备调试页（诊断能力改为设置里的「复制诊断信息」）；主页显示扫描到几台设备，便于判断扫不到还是连不上"
+  "versionCode": 33,
+  "versionName": "0.10.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/xD1qvdTwNV",
+  "notes": "修写入队列卡死：未连接时排入的帧会把排空状态永久锁住，导致连上后所有指令都发不出去（振动/联动/刺激模式全失效）。队列已加空检查并在连接/断开时复位"
 }
