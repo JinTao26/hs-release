@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.10.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/xD1qvdTwNV",
-  "notes": "修写入队列卡死：未连接时排入的帧会把排空状态永久锁住，导致连上后所有指令都发不出去（振动/联动/刺激模式全失效）。队列已加空检查并在连接/断开时复位"
+  "versionCode": 34,
+  "versionName": "0.10.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/OLv93Gighs",
+  "notes": "刺激/真人模式强度整体抬高，档位映射改为非线性，峰值可打到满格；删掉真人模式的全停大停顿，节奏更连贯；自跑模式不再叠加激烈模式的全停"
 }
