@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "0.10.7",
-  "apkUrl": "https://aka.doubaocdn.com/s/VElbnWiGp9",
-  "notes": "修跟随模式三路一直满档：三路改用绝对刻度（dB/通透占比/慢电平），不再用各自历史峰值归一，安静就低、响才高"
+  "versionCode": 38,
+  "versionName": "0.10.8",
+  "apkUrl": "https://aka.doubaocdn.com/s/LLy8sx6Ut5",
+  "notes": "真人模式改成撞击手感：冲程压到35~80ms、上冲更陡、回落更快；撞击瞬间震动顶满并带高频碎震；动作间隔拉长到300~750ms，不快但有砸感"
 }
