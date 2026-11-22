@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.10.9",
-  "apkUrl": "https://aka.doubaocdn.com/s/HyPrURAJob",
-  "notes": "真人模式撞击频率加快（间隔215~550ms，连击概率12%）；扭动改为配合撞击，目标锅在撞击事件上，上升120ms跟上、退600ms收尾"
+  "versionCode": 40,
+  "versionName": "0.10.10",
+  "apkUrl": "https://aka.doubaocdn.com/s/R2AWbmn6ck",
+  "notes": "扭动摆幅加大：上升60ms、回落190ms，每次撞击都有明显来回；叠55ms尺度颗粒扰。实测相邻步平均变化0.90档，明显跳变314次"
 }
