@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "0.11.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/IjLm9IG7J6",
-  "notes": "跟随模式扭动/震动改机制：扭动改由低频能量驱动（原来是总音量，和伸缩同源），震动改由高频颗牳度驱动；实测三路频谱分离干净。同时真人模式震动与扭动也改成独立机制"
+  "versionCode": 42,
+  "versionName": "0.11.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/4siVVvTKZQ",
+  "notes": "修版本号从未更新的问题：从 0.9.0 起 gradle 里的 versionCode/versionName 一直没被真正改写，App 内永远显示 v0.9.0（versionCode 28）。现已到 42 / 0.11.1，APK 内已校验。含三通道机制分离等全部改动"
 }
