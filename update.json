@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.11.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/kIjIsrMQRU",
-  "notes": "修震动/扭动不下发：马达路数默认值是 1，导致三路取最大值只发一路，ch2/ch3 从来没收到过。现默认三路，并做一次性迁移"
+  "versionCode": 44,
+  "versionName": "0.11.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/AClcQdPHU2",
+  "notes": "省电：静默时不再反复发零帧；持续高位 1.5 秒后自适应削 12%（峰値不动）；从设备状态帧解析电量，低电主页提醒"
 }
