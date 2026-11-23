@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "0.11.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/AClcQdPHU2",
-  "notes": "省电：静默时不再反复发零帧；持续高位 1.5 秒后自适应削 12%（峰値不动）；从设备状态帧解析电量，低电主页提醒"
+  "versionCode": 45,
+  "versionName": "0.11.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/siBmTETnKQ",
+  "notes": "真人模式加入握持段：撞到顶后捏住240~460ms（保留58~76%力度）再松开，解决「撞完就空」的松散感；震动/扭动同步改为帧末衰减，峰值不再被吃掉一帧"
 }
