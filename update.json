@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "0.11.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/siBmTETnKQ",
-  "notes": "真人模式加入握持段：撞到顶后捏住240~460ms（保留58~76%力度）再松开，解决「撞完就空」的松散感；震动/扭动同步改为帧末衰减，峰值不再被吃掉一帧"
+  "versionCode": 46,
+  "versionName": "0.11.5",
+  "apkUrl": "https://aka.doubaocdn.com/s/yjhJ2VIz0h",
+  "notes": "设置页新增「断开设备连接」：此前 App 会在后台持续占用连接，导致官方 App 无法连接设备"
 }
