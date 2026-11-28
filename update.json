@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "0.11.6",
-  "apkUrl": "https://aka.doubaocdn.com/s/LHHC26er5v",
-  "notes": "小悬浮窗新增激烈模式开关；悬浮窗不再跑出屏幕、不会再点不到；拖动位置会记住。",
-  "size": 19127496
+  "versionCode": 48,
+  "versionName": "0.11.7",
+  "apkUrl": "https://aka.doubaocdn.com/s/Gm1iUgfPjx",
+  "notes": "跟随模式新增\u300c起伏放大\u300d：把这一段内容里的小起伏铺成明显的档位差，不用再靠调权重。",
+  "size": 19130380
 }
